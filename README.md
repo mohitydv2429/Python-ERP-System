@@ -1,3 +1,5 @@
+ERP.jpeg
+
 # 🏢 Python ERP System
 
 ## 📌 Project Overview
