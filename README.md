@@ -1,53 +1,44 @@
-# 🏢 Python ERP System (Enterprise Resource Planning)
+# 🏢 Python ERP System
 
 ## 📌 Project Overview
-The **Python ERP System** is a fully structured desktop-based application designed to manage core business operations such as employee records, inventory control, billing system, and reporting dashboard.
+This is a Python-based ERP (Enterprise Resource Planning) System designed to manage business operations like employee management, inventory, billing, and reporting in an efficient and structured way.
 
-This project demonstrates real-world **data handling, database integration, and modular software architecture** using Python. It is designed to improve operational efficiency, reduce manual work, and provide centralized control over business processes.
-
----
-
-## 🚀 Key Features
-
-### 👨‍💼 Employee Management
-- Add new employees  
-- Update employee details  
-- Delete employee records  
-- View employee database  
-
-### 📦 Inventory Management
-- Add & manage products  
-- Track stock levels  
-- Update inventory in real time  
-- Prevent stock shortages  
-
-### 🧾 Billing & Invoice System
-- Generate invoices automatically  
-- Calculate totals & taxes  
-- Maintain billing history  
-- Export invoice records  
-
-### 📊 Reporting & Analytics
-- Sales reports generation  
-- Inventory status reports  
-- Data visualization support (graphs/charts)  
-
-### 🔐 Authentication System
-- Secure login system  
-- User access control  
-- Admin-level permissions  
-
----
+## 🚀 Features
+- Employee Management (Add / Update / Delete)
+- Inventory Management System
+- Billing & Invoice Generation
+- Sales & Report Tracking
+- Secure Login System
+- Database Integration (MySQL / SQLite)
+- Data Visualization Support
 
 ## 🛠️ Tech Stack
-
-- **Programming Language:** Python 🐍  
-- **GUI Framework:** Tkinter  
-- **Database:** MySQL / SQLite  
-- **Data Processing:** Pandas  
-- **Visualization:** Matplotlib  
-- **Architecture:** Modular MVC-style structure  
-
----
+Python, Tkinter, MySQL/SQLite, Pandas, Matplotlib
 
 ## 📂 Project Structure
+ERP-System/
+├── main.py
+├── database.py
+├── modules/
+│   ├── employee.py
+│   ├── inventory.py
+│   ├── billing.py
+├── assets/
+├── requirements.txt
+└── README.md
+
+## ⚙️ Setup
+git clone https://github.com/mohitydv2429/Python-ERP-System.git  
+cd Python-ERP-System  
+pip install -r requirements.txt  
+python main.py  
+
+## 🔗 GitHub Link
+https://github.com/mohitydv2429/Python-ERP-System.git
+
+## 👨‍💻 Developer
+Mohit Yadav  
+Data Analyst | Python Developer | Excel & Power BI
+
+## 📌 Future Scope
+Cloud integration, role-based access, advanced dashboard, web version using Flask/Django
