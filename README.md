@@ -36,9 +36,8 @@ python main.py
 ## 🔗 GitHub Link
 https://github.com/mohitydv2429/Python-ERP-System.git
 
-## 👨‍💻 Developer
 Mohit Yadav  
-Data Analyst | Python Developer | Excel & Power BI
+Data Analyst | Python | Excel & Power BI
 
 ## 📌 Future Scope
 Cloud integration, role-based access, advanced dashboard, web version using Flask/Django
