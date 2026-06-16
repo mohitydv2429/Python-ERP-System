@@ -1,4 +1,5 @@
-ERP.jpeg
+<img width="342" height="227" alt="ERP" src="https://github.com/user-attachments/assets/b49efcbf-35cd-4d1c-9663-28e380edf5ed" />
+
 
 # 🏢 Python ERP System
 
