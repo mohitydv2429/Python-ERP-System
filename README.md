@@ -1,12 +1,12 @@
 <img width="342" height="227" alt="ERP" src="https://github.com/user-attachments/assets/b49efcbf-35cd-4d1c-9663-28e380edf5ed" />
 
 
-# 🏢 Python ERP System
+#Python ERP System
 
-## 📌 Project Overview
+## Project Overview
 This is a Python-based ERP (Enterprise Resource Planning) System designed to manage business operations like employee management, inventory, billing, and reporting in an efficient and structured way.
 
-## 🚀 Features
+## Features
 - Employee Management (Add / Update / Delete)
 - Inventory Management System
 - Billing & Invoice Generation
@@ -15,10 +15,10 @@ This is a Python-based ERP (Enterprise Resource Planning) System designed to man
 - Database Integration (MySQL / SQLite)
 - Data Visualization Support
 
-## 🛠️ Tech Stack
+## Tech Stack
 Python, Tkinter, MySQL/SQLite, Pandas, Matplotlib
 
-## 📂 Project Structure
+## Project Structure
 ERP-System/
 ├── main.py
 ├── database.py
@@ -30,17 +30,17 @@ ERP-System/
 ├── requirements.txt
 └── README.md
 
-## ⚙️ Setup
+## Setup
 git clone https://github.com/mohitydv2429/Python-ERP-System.git  
 cd Python-ERP-System  
 pip install -r requirements.txt  
 python main.py  
 
-## 🔗 GitHub Link
+## GitHub Link
 https://github.com/mohitydv2429/Python-ERP-System.git
 
 Mohit Yadav  
 Data Analyst | Python | Excel & Power BI
 
-## 📌 Future Scope
+## Future Scope
 Cloud integration, role-based access, advanced dashboard, web version using Flask/Django
