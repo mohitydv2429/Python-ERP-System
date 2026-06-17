@@ -1,7 +1,9 @@
-<img width="342" height="227" alt="ERP" src="https://github.com/user-attachments/assets/b49efcbf-35cd-4d1c-9663-28e380edf5ed" />
-
-
 #Python ERP System
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/4f366805-6446-443b-8e81-0f9efd948271" />
+
+
+
+
 
 ## Project Overview
 This is a Python-based ERP (Enterprise Resource Planning) System designed to manage business operations like employee management, inventory, billing, and reporting in an efficient and structured way.
